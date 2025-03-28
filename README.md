@@ -2,7 +2,7 @@
 
 This project demonstrates how to set up Jenkins for Continuous Integration and Continuous Deployment (CI/CD) with GitHub and AWS.
 
-## Project Setup 
+## Project Setup 1
 
 1. Clone the repository.
 2. Set up Jenkins and link it with this repository.
